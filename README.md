@@ -1,4 +1,4 @@
-# Projeto_Python_Transcri-o_de_Conversa_Whatssapp
+# Projeto_Python_Transcrição_de_Conversa_Whatssapp
 
 Este projeto é uma solução avançada de processamento de linguagem natural que automatiza a transcrição de conversas do WhatsApp, combinando a extração do histórico de mensagens textuais com a transcrição inteligente de áudios usando múltiplos motores de Speech-to-Text (STT).
 
